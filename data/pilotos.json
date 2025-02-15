@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "Max Verstappen",
+        "equipo": "Red Bull Racing",
+        "nacionalidad": "Países Bajos",
+        "puntos": 369,
+        "imagen": "img/verstappen.jpg"
+    },
+    {
+        "nombre": "Lewis Hamilton",
+        "equipo": "Mercedes AMG Petronas",
+        "nacionalidad": "Reino Unido",
+        "puntos": 325,
+        "imagen": "img/hamilton.jpg"
+    },
+    {
+        "nombre": "Charles Leclerc",
+        "equipo": "Scuderia Ferrari",
+        "nacionalidad": "Mónaco",
+        "puntos": 290,
+        "imagen": "img/leclerc.jpg"
+    },
+    {
+        "nombre": "Sergio Pérez",
+        "equipo": "Red Bull Racing",
+        "nacionalidad": "México",
+        "puntos": 260,
+        "imagen": "img/perez.jpg"
+    },
+    {
+        "nombre": "Carlos Sainz",
+        "equipo": "Scuderia Ferrari",
+        "nacionalidad": "España",
+        "puntos": 245,
+        "imagen": "img/sainz.jpg"
+    }
+]

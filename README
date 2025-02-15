@@ -1,0 +1,33 @@
+# Portal Interactivo de la Fórmula 1
+
+## Introducción
+
+El equipo de trabajo ha desarrollado un proyecto web enfocado en la Fórmula 1, con el objetivo de proporcionar información relevante sobre equipos, pilotos y circuitos, además de ofrecer una experiencia interactiva para los usuarios.
+
+## Nombre del Proyecto
+Portal Interactivo de la Fórmula 1
+
+## Introducción
+Este proyecto consiste en el desarrollo de un sitio web dinámico e interactivo sobre la Fórmula 1. La plataforma permitirá a los usuarios conocer detalles sobre equipos, pilotos y circuitos, además de contar con un sistema de autenticación para diferentes roles, ofreciendo funcionalidades personalizadas según cada tipo de usuario.
+
+## Beneficiarios
+Los principales beneficiarios del proyecto son:
+- Aficionados de la Fórmula 1 interesados en conocer estadísticas y datos actualizados.
+- Estudiantes y profesionales de tecnologías web, que podrán analizar la implementación del sitio.
+- Administradores de contenido, encargados de actualizar la información disponible.
+
+## Importancia de la Propuesta
+Este portal facilitará el acceso a información relevante de la Fórmula 1 de una manera organizada y visualmente atractiva. Además, la implementación de roles y autenticación garantiza una experiencia personalizada y segura para los usuarios. La propuesta permite una navegación intuitiva, promoviendo la interactividad y el aprendizaje sobre la competición automovilística más importante del mundo.
+
+## Gestión de Cada Rol
+- **Administrador**: Accede a todas las páginas, puede gestionar la base de datos de equipos, pilotos y circuitos, así como modificar información general del sitio.
+- **Usuario Registrado**: Puede acceder a información detallada sobre equipos, pilotos y circuitos, así como interactuar con contenido adicional.
+- **Visitante**: Solo puede visualizar información pública sin necesidad de autenticación.
+
+Cada usuario tendrá acceso a páginas específicas, asegurando que la gestión de la información sea eficiente y segura.
+
+
+
+
+- **By**:Fabian Andres Diaz Pinto
+

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fórmula 1 - Inicio</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script defer src="js/auth.js"></script>
+    <script defer src="js/main.js"></script>
+    <script defer src="js/contact.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Fórmula 1</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="equipos.html">Equipos</a></li>
+                <li><a href="pilotos.html">Pilotos</a></li>
+                <li><a href="circuitos.html">Circuitos</a></li>
+                <li><a href="login.html">Login</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+                <li><a href="circuitos_videos.html">Ubicacion/Referencia</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Bienvenidos al sitio de Fórmula 1</h2>
+        <p>Explora la información más reciente sobre la Fórmula 1.</p>
+        <section id="tabla-posiciones">
+            <h3>Tabla de Posiciones</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Posición</th>
+                        <th>Piloto</th>
+                        <th>Equipo</th>
+                        <th>Puntos</th>
+                    </tr>
+                </thead>
+                <tbody id="tabla-body">
+                </tbody>
+            </table>
+        </section>
+        <section id="contacto">
+            <h3>Contacto</h3>
+            <form id="contact-form">
+                <label for="nombre">Nombre:</label>
+                <input type="text" id="nombre" name="nombre" required>
+                
+                <label for="email">Correo Electrónico:</label>
+                <input type="email" id="email" name="email" required>
+                
+                <label for="mensaje">Mensaje:</label>
+                <textarea id="mensaje" name="mensaje" required></textarea>
+                
+                <button type="submit">Enviar</button>
+                <p id="form-mensaje"></p>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Fórmula 1. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>

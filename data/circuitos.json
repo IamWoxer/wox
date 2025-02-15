@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "Circuito de Mónaco",
+        "ubicacion": "Mónaco",
+        "longitud": "3.337 km",
+        "vueltas": 78,
+        "imagen": "img/monaco.jpg"
+    },
+    {
+        "nombre": "Silverstone",
+        "ubicacion": "Reino Unido",
+        "longitud": "5.891 km",
+        "vueltas": 52,
+        "imagen": "img/silverstone.jpg"
+    },
+    {
+        "nombre": "Spa-Francorchamps",
+        "ubicacion": "Bélgica",
+        "longitud": "7.004 km",
+        "vueltas": 44,
+        "imagen": "img/spa.jpg"
+    },
+    {
+        "nombre": "Monza",
+        "ubicacion": "Italia",
+        "longitud": "5.793 km",
+        "vueltas": 53,
+        "imagen": "img/monza.jpg"
+    },
+    {
+        "nombre": "Suzuka",
+        "ubicacion": "Japón",
+        "longitud": "5.807 km",
+        "vueltas": 53,
+        "imagen": "img/suzuka.jpg"
+    }
+]

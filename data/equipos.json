@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "Red Bull Racing",
+        "sede": "Reino Unido",
+        "fundacion": 2005,
+        "campeonatos": 6,
+        "imagen": "img/redbull.jpg"
+    },
+    {
+        "nombre": "Mercedes AMG Petronas",
+        "sede": "Alemania",
+        "fundacion": 1954,
+        "campeonatos": 8,
+        "imagen": "img/mercedes.jpg"
+    },
+    {
+        "nombre": "Scuderia Ferrari",
+        "sede": "Italia",
+        "fundacion": 1929,
+        "campeonatos": 16,
+        "imagen": "img/ferrari.jpg"
+    },
+    {
+        "nombre": "McLaren F1 Team",
+        "sede": "Reino Unido",
+        "fundacion": 1963,
+        "campeonatos": 8,
+        "imagen": "img/mclaren.jpg"
+    },
+    {
+        "nombre": "Alpine F1 Team",
+        "sede": "Francia",
+        "fundacion": 2021,
+        "campeonatos": 0,
+        "imagen": "img/alpine.jpg"
+    }
+]
